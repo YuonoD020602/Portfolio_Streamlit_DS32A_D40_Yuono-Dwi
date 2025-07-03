@@ -23,14 +23,14 @@ if page == 'Tentang Saya':
     import tentang
     tentang.show_about_me()
 
-if page == 'Proyek':
+elif page == 'Proyek':
     import proyek
-    proyek.show_actor()  # Importing the proyek module to display actor analysis
+    proyek.show_actor()  # Display actor analysis
 
-if page == 'Machine Learning':
+elif page == 'Machine Learning':
     import prediksi
-    prediksi.prediksi()  # Importing the prediksi module to run the prediction model
+    prediksi.prediksi()  # Run prediction model
 
-if page == 'Kontak':
+elif page == 'Kontak':
     import kontak
-    kontak.tampilkan_kontak() # Importing the kontak module to display contact information 
+    kontak.tampilkan_kontak()  # Display contact info
