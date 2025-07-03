@@ -1,8 +1,8 @@
 # Portfolio_Streamlit_DS32A_D40_Yuono-Dwi
-Yuono Dwi Raharjo – Data Portfolio App
+Create by Yuono Dwi Raharjo
 
-Ini adalah aplikasi portofolio interaktif berbasis **Streamlit**, menampilkan:
--  Profil & pengalaman saya
+Ini adalah portofolio interaktif berbasis **Streamlit**, menampilkan:
+-  Profil & pengalaman singkat
 -  Dashboard eksplorasi aktor Box Office
 -  Prediksi pendapatan film dengan machine learning
 -  Informasi kontak
